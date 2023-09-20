@@ -1,4 +1,4 @@
-package me.dio.domain.controller.exception;
+package me.dio.controller.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

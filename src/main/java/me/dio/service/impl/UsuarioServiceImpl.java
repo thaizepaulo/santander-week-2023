@@ -1,8 +1,8 @@
-package me.dio.domain.service.impl;
+package me.dio.service.impl;
 
+import me.dio.service.UsuarioService;
 import me.dio.domain.model.Usuario;
 import me.dio.domain.repository.UsuarioRepository;
-import me.dio.domain.service.UsuarioService;
 import org.springframework.stereotype.Service;
 
 import java.util.NoSuchElementException;

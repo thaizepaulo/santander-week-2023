@@ -1,0 +1,1 @@
+web: java -jar build/libs/java-dio-santander-week-2023-0.0.1-SNAPSHOT.jar

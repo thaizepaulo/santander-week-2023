@@ -1,7 +1,7 @@
-package me.dio.domain.controller;
+package me.dio.controller;
 
 import me.dio.domain.model.Usuario;
-import me.dio.domain.service.UsuarioService;
+import me.dio.service.UsuarioService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
