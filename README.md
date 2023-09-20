@@ -43,3 +43,11 @@ classDiagram
   Usuario "1" *-- "1" Cartao
   Usuario "1" *-- "N" Noticia
 ```
+
+## Spring Boot - Bibliotecas utilizadas:
+- Spring Web
+- Spring Data JPA
+- H2 Database
+- Postgresql Drive
+
+
