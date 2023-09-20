@@ -29,7 +29,7 @@ public class UsuarioController {
     public ResponseEntity<Usuario> findById(@RequestBody Usuario usuario) {
         Usuario usuarioCriado = usuarioService.create(usuario);
         URI location = ServletUriComponentsBuilder.fromCurrentRequest()
-                .path("{id}")
+                .path("/{id}")
                 .buildAndExpand(usuarioCriado.getId())
                 .toUri();
         return ResponseEntity.created(location).body(usuarioCriado);
