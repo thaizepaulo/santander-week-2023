@@ -49,5 +49,7 @@ classDiagram
 - Spring Data JPA
 - H2 Database
 - Postgresql Drive
+- Lombok
 
-
+## Melhorias:
+- Uso da biblioteca Lombok.
