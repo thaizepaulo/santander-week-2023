@@ -50,6 +50,7 @@ classDiagram
 - H2 Database
 - Postgresql Drive
 - Lombok
+- Open API (adicionada manualmente)
 
 ## Melhorias:
 - Uso da biblioteca Lombok.
